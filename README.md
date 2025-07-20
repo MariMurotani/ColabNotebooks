@@ -1,0 +1,1 @@
+Colabで使っているnote bookの保存場所
